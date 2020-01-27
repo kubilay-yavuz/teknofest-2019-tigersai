@@ -1,6 +1,6 @@
 # Teknofest AI Competition 2019
 
-This the project that got us to fifth place out of nearly 250 competitors. The project is a joint work of [Melik Burak Bozbey](https://github.com/mburakbozbey) and I under the name [TigersAI](https://github.com/tigersai) We made this project with Google Colab and Drive only.
+This the project that got us to fifth place out of nearly 250 competitors. The project is a joint work of [Melik Burak Bozbey](https://github.com/mburakbozbey) and I under the name [TigersAI](https://github.com/tigers-ai) We made this project with Google Colab and Drive only.
 
 The project mostly depended on Keras-retinanet, and the datasets we used. 
 We used 4 different backbones;
