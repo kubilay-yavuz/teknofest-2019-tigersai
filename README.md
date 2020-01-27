@@ -15,3 +15,20 @@ However, for vehicles, our model excelled. We had a perfect precision on every t
 
 You can see in the csv files, the used datasets. Here's some screenshots from the model.
 
+1. An overall performance of the model
+![Image from the given dataset](/images/1.jpeg)
+
+2. The pedestrians missed because of the anchors
+![The pedestrians missed because of the anchors](/images/anchor-pedes.jpeg)
+
+3. The pedestrians missed because of the anchors
+![An image](/images/anchor-pedes-1.jpeg)
+
+4. Our model had a hard time when the subject image is taken in construction site
+![Construction Site](/images/construction-site.jpeg)
+
+5. Our model predict a moving car in a night scheme<br>
+![Night image](/images/night-moving.jpeg)
+
+6. From the training phase: You see the precision is low on pedestrians (yaya means pedestrian in Turkish)
+![Training Phase](/images/trainin-phase.jpeg)
